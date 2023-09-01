@@ -1,0 +1,32 @@
+.contact
+{
+  display: flex;
+  align-items:center;
+  justify-content:center ;
+  margin-left:555px;
+}
+form{
+  background: white;
+  display: flex;
+  flex-direction: column;
+  padding:4vw 7vw;
+  border-radius: 10px;
+}
+form h3{
+  color:#282323;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+form button{
+    padding:15px;
+    
+    color:#fff;
+    font-size: 18px;
+    border:2px solid black;
+    border-radius:40px ;
+    cursor: pointer;
+    width:140px;
+    margin:20px auto 0;
+  
+  }
+  
